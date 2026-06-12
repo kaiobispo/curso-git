@@ -1,9 +1,7 @@
-# Título do meu README
+# Curso de git e github
 
-Arquivo Readme
 
-## Subtítulo do README 
+## Aprendizado
 
-- Tópico: 1
-- Tópico: 2
-- Tópico: 3
+- git commit, add, push, pull, diff, log, revert e reset.
+- solução de problemas: resolvendo conflitos.
